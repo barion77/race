@@ -1,2 +1,2 @@
 # race
-Race in python
+My first game in python
